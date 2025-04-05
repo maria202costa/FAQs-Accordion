@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live Site URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/interactive-and-responsive-faqs-accordion-made-with-javascript-O3Zi7_sBNO)
+- Live Site URL: [Live Site URL](https://fa-qs-accordion-eight.vercel.app/)
 
 ## My process
 

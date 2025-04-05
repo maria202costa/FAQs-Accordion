@@ -22,15 +22,15 @@
 }
 
 #background-image-desktop {
-  width: 1440px;
+  width: 100vw;
 }
 #background-image-mobile {
   display: none;
 }
 
 body {
-  max-width: 1440px;
-  min-width: 1025px;
+  width: 100vw;
+  height: 100vh;
   background-color: var(--purple-100);
 }
 
